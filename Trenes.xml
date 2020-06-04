@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Trenes>
+	<Tren>
+	  <Posicion>12</Posicion>
+	  <Via>1</Via>
+	</Tren>
+	<Tren>
+	  <Posicion>98</Posicion>
+	  <Via>3</Via>
+	</Tren>
+</Trenes>

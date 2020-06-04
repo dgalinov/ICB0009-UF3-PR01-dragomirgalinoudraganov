@@ -1,0 +1,31 @@
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01 - Quiz - sol\TrenClass\bin\Debug\netstandard2.0\TrenClass.deps.json
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01 - Quiz - sol\TrenClass\bin\Debug\netstandard2.0\TrenClass.dll
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01 - Quiz - sol\TrenClass\bin\Debug\netstandard2.0\TrenClass.pdb
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01 - Quiz - sol\TrenClass\obj\Debug\netstandard2.0\TrenClass.csprojAssemblyReference.cache
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01 - Quiz - sol\TrenClass\obj\Debug\netstandard2.0\TrenClass.AssemblyInfoInputs.cache
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01 - Quiz - sol\TrenClass\obj\Debug\netstandard2.0\TrenClass.AssemblyInfo.cs
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01 - Quiz - sol\TrenClass\obj\Debug\netstandard2.0\TrenClass.dll
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01 - Quiz - sol\TrenClass\obj\Debug\netstandard2.0\TrenClass.pdb
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01\TrenClass\bin\Debug\netstandard2.0\TrenClass.deps.json
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01\TrenClass\bin\Debug\netstandard2.0\TrenClass.dll
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01\TrenClass\bin\Debug\netstandard2.0\TrenClass.pdb
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01\TrenClass\obj\Debug\netstandard2.0\TrenClass.csprojAssemblyReference.cache
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01\TrenClass\obj\Debug\netstandard2.0\TrenClass.AssemblyInfoInputs.cache
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01\TrenClass\obj\Debug\netstandard2.0\TrenClass.AssemblyInfo.cs
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01\TrenClass\obj\Debug\netstandard2.0\TrenClass.dll
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01\TrenClass\obj\Debug\netstandard2.0\TrenClass.pdb
+C:\Users\dragomir\Desktop\Pr01\TrenClass\obj\Debug\netstandard2.0\TrenClass.csprojAssemblyReference.cache
+C:\Users\dragomir\Desktop\Pr01\TrenClass\obj\Debug\netstandard2.0\TrenClass.csproj.CoreCompileInputs.cache
+C:\Users\dragomir\Desktop\Pr01\TrenClass\obj\Debug\netstandard2.0\TrenClass.AssemblyInfoInputs.cache
+C:\Users\dragomir\Desktop\Pr01\TrenClass\obj\Debug\netstandard2.0\TrenClass.AssemblyInfo.cs
+C:\Users\dragomir\Desktop\Pr01\TrenClass\obj\Debug\netstandard2.0\TrenClass.dll
+C:\Users\dragomir\Desktop\Pr01\TrenClass\obj\Debug\netstandard2.0\TrenClass.pdb
+D:\Editores\Gracia\text\Pr01\TrenClass\bin\Debug\netstandard2.0\TrenClass.deps.json
+D:\Editores\Gracia\text\Pr01\TrenClass\bin\Debug\netstandard2.0\TrenClass.dll
+D:\Editores\Gracia\text\Pr01\TrenClass\bin\Debug\netstandard2.0\TrenClass.pdb
+D:\Editores\Gracia\text\Pr01\TrenClass\obj\Debug\netstandard2.0\TrenClass.csprojAssemblyReference.cache
+D:\Editores\Gracia\text\Pr01\TrenClass\obj\Debug\netstandard2.0\TrenClass.csproj.CoreCompileInputs.cache
+D:\Editores\Gracia\text\Pr01\TrenClass\obj\Debug\netstandard2.0\TrenClass.AssemblyInfoInputs.cache
+D:\Editores\Gracia\text\Pr01\TrenClass\obj\Debug\netstandard2.0\TrenClass.AssemblyInfo.cs
+D:\Editores\Gracia\text\Pr01\TrenClass\obj\Debug\netstandard2.0\TrenClass.dll
+D:\Editores\Gracia\text\Pr01\TrenClass\obj\Debug\netstandard2.0\TrenClass.pdb

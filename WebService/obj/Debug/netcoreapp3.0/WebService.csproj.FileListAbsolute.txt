@@ -1,0 +1,11 @@
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01 - Quiz - sol\WebService\obj\Debug\netcoreapp3.0\WebService.csprojAssemblyReference.cache
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01 - Quiz - sol\WebService\obj\Debug\netcoreapp3.0\WebService.AssemblyInfoInputs.cache
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01 - Quiz - sol\WebService\obj\Debug\netcoreapp3.0\WebService.AssemblyInfo.cs
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01 - Quiz - sol\WebService\obj\Debug\netcoreapp3.0\WebService.dll
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01 - Quiz - sol\WebService\obj\Debug\netcoreapp3.0\WebService.pdb
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01 - Quiz - sol\WebService\bin\Debug\netcoreapp3.0\WebService.exe
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01 - Quiz - sol\WebService\bin\Debug\netcoreapp3.0\WebService.deps.json
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01 - Quiz - sol\WebService\bin\Debug\netcoreapp3.0\WebService.runtimeconfig.json
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01 - Quiz - sol\WebService\bin\Debug\netcoreapp3.0\WebService.runtimeconfig.dev.json
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01 - Quiz - sol\WebService\bin\Debug\netcoreapp3.0\WebService.dll
+C:\Users\Roger\Dropbox\La Salle - Online\M9\Practicas\UF3\Pr01 - Quiz - sol\WebService\bin\Debug\netcoreapp3.0\WebService.pdb

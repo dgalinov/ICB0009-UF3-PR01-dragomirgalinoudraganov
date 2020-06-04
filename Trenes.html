@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+	<script src="https://code.jquery.com/jquery-2.1.4.js"></script>
+    <title>Canvas tutorial</title>
+	
+    <script type="text/javascript">		
+
+		setTimeout(cargarDatos,500);
+		
+		function cargarDatos()
+		{
+			$.ajax({
+				type: "GET",
+				url: "http://localhost:3000",
+				data: { 
+					tren: 1
+				},
+				dataType: "xml",
+				success: function(data) {
+					draw(data);				
+				}
+			});
+		}
+		function draw(data) {
+
+			var canvas = document.getElementById('tutorial');
+			var ctx = canvas.getContext('2d');
+
+			var Posiciones = [];
+			var Vias = [];
+			i=0;
+			$(data).find("Posicion").each(function() {
+				var Pos = $(this);
+				Posiciones[i]= (Pos[0].innerHTML);
+				i++;
+			});				
+			console.log (Posiciones);
+			
+			i=0;
+			$(data).find("Via").each(function() 
+			{
+				var Via = $(this);
+				Vias[i]= (Via[0].innerHTML);
+				i++;
+			});				
+			console.log (Vias);
+
+			var PosVias = [0,50,150,100]; //Posiciones de las vias 0,1,2 y 3		
+			var ColoresTrenes = ["red", "blue"];
+			if (canvas.getContext) 
+			{
+				ctx.clearRect(0, 0, canvas.width, canvas.height);
+				
+				for (i=0; i<Posiciones.length; i++)
+				{
+					ctx.beginPath();
+					ctx.arc(Posiciones[i]*6,PosVias[Vias[i]], 10, 0, 2 * Math.PI);
+					ctx.fillStyle = ColoresTrenes[i];
+					ctx.fill();
+				}
+
+				ctx.stroke();
+			}
+			tid = setTimeout(cargarDatos, 500);
+		}
+    </script>
+    <style type="text/css">
+      canvas { border: 1px solid black; }
+    </style>
+  </head>
+  <body onload="draw();">
+    <canvas id="tutorial" width="800" height="600"></canvas>
+  </body>
+</html>

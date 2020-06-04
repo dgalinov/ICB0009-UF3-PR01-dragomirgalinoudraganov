@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DO0Oy18VF9eXzSNggjREDYWenQPzlub0IIWcztSNLgVqtbu7o1NTPJnBC4tpWgMwZbLkMX8toS4X41NPWctn8Q==",
+  "success": true,
+  "projectFilePath": "D:\\Editores\\Gracia\\text\\Pr01\\TrenClass\\TrenClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
